@@ -1,1 +1,1 @@
-This is a conflicting change in file1.txt for repository 2
+This is a conflicting change in file1.txt for repository 1
